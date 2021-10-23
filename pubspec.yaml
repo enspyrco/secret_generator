@@ -1,0 +1,10 @@
+name: secret_generator
+description: Generate secrets from cryptographically secure random numbers.
+version: 0.0.1
+
+environment:
+  sdk: '>=2.15.0-116.0.dev <3.0.0'
+
+dev_dependencies:
+  lints: ^1.0.0
+  test: ^1.16.0
